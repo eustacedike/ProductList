@@ -1,0 +1,23 @@
+
+
+#product_form {
+    padding: 10px 3vw;
+    background-color: rgb(230, 230, 230,0.6);
+}
+
+
+#product_form input,
+#product_form select {
+    padding: 5px 10px;
+    margin-bottom: 12px;
+    width: 200px;
+}
+
+#product_form label {
+    width: 100px;
+    display: inline-block;
+}
+
+.error {
+    color: red;
+}

@@ -1,0 +1,53 @@
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 3vw;
+    border-bottom: 2px solid gold;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+header div {
+    display: flex;
+    gap: 20px;
+}
+
+header button {
+    background: none;
+    padding: 10px 10px;
+    height: fit-content;
+    border: none;
+    box-shadow: 1px 2px 4px 1px rgb(128, 128, 128, 0.5);
+    font-weight: bold;
+    cursor: pointer;
+  font-family: 'Nunito', sans-serif;
+
+}
+
+header button:hover {
+    background-color: rgb(255, 215, 0, 0.7);
+}
+
+
+
+footer {
+    border-top: 2px solid gold;
+    text-align: center;
+    padding: 15px;
+}
+
+@media (max-width: 700px) {
+
+    header h1 {
+        font-size: 20px;
+    }
+
+    header button {
+        font-size: 12px;
+        padding: 4px 7px;
+    }
+    
+}

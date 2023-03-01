@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700;800&family=Montserrat+Subrayada&family=Nunito:wght@300;500;600;700;800&family=Poppins:wght@300;500;600;700;800&family=Prosto+One&family=Righteous&family=Roboto:wght@500;700;900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400;1,700&family=Yeon+Sung&display=swap');
+
+:root {
+  
+  --bg-color:   rgb(211, 211, 211, 0.3);
+  --my-black: #1b1c1e;
+  --button-font: 'Righteous', cursive;
+     
+}
+
+.App {
+  font-family: 'Nunito', sans-serif;
+}
+
+
+
+
